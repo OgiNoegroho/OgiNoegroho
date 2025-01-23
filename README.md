@@ -12,10 +12,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=OgiNoegroho&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/OgiNoegroho/OgiNoegroho/output/snake.svg" alt="Snake animation" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 ###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
